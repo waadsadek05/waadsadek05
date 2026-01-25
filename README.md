@@ -3,40 +3,80 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 - 🎓 Computer Science student at **Faculty of Computers & Artificial Intelligence**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 💡 Passionate about problem solving and building real projects
+- 🤖 Strong interest in **Artificial Intelligence & Machine Learning**
+- 💡 Passionate about problem solving and applying algorithms to real-world data
 - 🌱 Currently improving my skills in **Python, Data Structures, and AI fundamentals**
 
 ---
 
-### 🚀 Technologies & Tools
+## 🧠 AI & Machine Learning Projects (Main Focus)
+
+🔹 **Healthcare Insurance Expenses Prediction**  
+- Built ML models to predict insurance costs using demographic & health data  
+- Data cleaning, feature analysis, visualization  
+- Model evaluation using **RMSE** and **R²**  
+
+**Technologies:** Python, Scikit-learn, Pandas, NumPy, Matplotlib  
+
+---
+
+🔹 **Fashion MNIST – Logistic Regression vs K-Means**  
+- Image classification using Logistic Regression  
+- Unsupervised clustering using K-Means  
+- Performance comparison with visual analysis  
+
+**Technologies:** Python, Scikit-learn, NumPy, Matplotlib  
+
+---
+
+🔹 **Parallel K-Means Clustering**  
+- Implemented K-Means from scratch  
+- Developed sequential & parallel versions using **Fork/Join**  
+- Compared runtime and clustering quality using **SSE**  
+
+**Technologies:** Java, Fork/Join Framework, OOP  
+
+---
+
+## 🚀 Technologies & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,php,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,php,git,github" />
 </p>
 
 **Concepts:**  
-OOP • Data Structures • Databases
+OOP • Data Structures • Databases • Algorithms
 
 ---
 
-### 🧩 Projects
-🔹 **Employee Management System (Python)**  
-- Console-based system for managing employee records  
-- Features: Add, Update, Delete, View employees  
-- Technologies: Python, CSV File Handling  
+## 💻 Software & Academic Projects
+
+🔹 **N-Queens Solver with GUI**  
+Technologies: Java, Swing, OOP  
+
+🔹 **SJF Non-Preemptive Scheduling (GUI)**  
+Technologies: Java, Swing, OOP  
+
+🔹 **Employee Management System**  
+Technologies: Python, CSV File Handling  
 
 🔹 **Wikipedia-like Web Platform**  
-- Web platform inspired by Wikipedia with user roles and content management  
-- Technologies: PHP, HTML, CSS, MVC Concept  
+Technologies: PHP, HTML, CSS, MVC  
 
 🔹 **Language Learning Website**  
-- Responsive website to help users learn different languages  
-- Technologies: HTML, CSS, JavaScript  
+Technologies: HTML, CSS, JavaScript  
 
 ---
 
-### 📫 Connect With Me
-- GitHub: [waadsadek05](https://github.com/waadsadek05)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waadsadek05&show_icons=true&theme=default" />
+</p>
 
+---
+
+## 📫 Connect With Me
+- 📧 Email: waedsadek0@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/waadsadek  
+- 💻 GitHub: https://github.com/waadsadek05
