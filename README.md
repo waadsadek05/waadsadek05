@@ -1,4 +1,4 @@
-<h1>Hello, I'm Waad Sadek 👋</h1>
+<h1>Hello, I'm Waad Sadek </h1>
 
 <p>
   <a href="https://www.linkedin.com/in/waadsadek">
@@ -72,16 +72,9 @@ Predicting insurance costs using ML models with performance evaluation (RMSE, R�
 Classification vs clustering comparison with visual analysis.  
 **Tech:** Python, Scikit-learn  
 
-🔹 **Parallel K-Means Clustering**  
-Sequential vs parallel K-Means using Fork/Join with performance comparison.  
-**Tech:** Java, OOP  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waadsadek05&show_icons=true&theme=dark" />
-</p>
+🔹 **N-Queens Solver with GUI**  
+Implemented a graphical solution for the N-Queens problem using multiple search algorithms (Best-First Search, Hill Climbing, Cultural Algorithm) with visualization.  
+**Tech:** Python, Tkinter, OOP  
 
 ---
 
