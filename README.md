@@ -1,6 +1,6 @@
-<h1 align="center">Hello, I'm Waad Sadek 👋</h1>
+<h1>Hello, I'm Waad Sadek 👋</h1>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/waadsadek">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
