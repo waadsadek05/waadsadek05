@@ -1,82 +1,91 @@
-<h1 align="center">Hello, I'm Waad Sadek</h1>
-<h3 align="center">Computer Science Student | Aspiring AI Engineer</h3>
+<h1 align="center">Hello, I'm Waad Sadek 👋</h1>
 
----
-
-## 👩‍💻 About Me
-- 🎓 Computer Science student at **Faculty of Computers & Artificial Intelligence**
-- 🤖 Strong interest in **Artificial Intelligence & Machine Learning**
-- 💡 Passionate about problem solving and applying algorithms to real-world data
-- 🌱 Currently improving my skills in **Python, Data Structures, and AI fundamentals**
-
----
-
-## 🧠 AI & Machine Learning Projects (Main Focus)
-
-🔹 **Healthcare Insurance Expenses Prediction**  
-- Built ML models to predict insurance costs using demographic & health data  
-- Data cleaning, feature analysis, visualization  
-- Model evaluation using **RMSE** and **R²**  
-
-**Technologies:** Python, Scikit-learn, Pandas, NumPy, Matplotlib  
-
----
-
-🔹 **Fashion MNIST – Logistic Regression vs K-Means**  
-- Image classification using Logistic Regression  
-- Unsupervised clustering using K-Means  
-- Performance comparison with visual analysis  
-
-**Technologies:** Python, Scikit-learn, NumPy, Matplotlib  
-
----
-
-🔹 **Parallel K-Means Clustering**  
-- Implemented K-Means from scratch  
-- Developed sequential & parallel versions using **Fork/Join**  
-- Compared runtime and clustering quality using **SSE**  
-
-**Technologies:** Java, Fork/Join Framework, OOP  
-
----
-
-## 🚀 Technologies & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,php,git,github" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/waadsadek">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:waedsadek0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
-**Concepts:**  
-OOP • Data Structures • Databases • Algorithms
+---
+
+🤖 **Aspiring AI Engineer & Computer Science Student**  
+🎓 Faculty of Computers & Artificial Intelligence – Helwan University  
+🐍 Python • Machine Learning • Problem Solving  
+💡 Passionate about data, algorithms, and intelligent systems  
 
 ---
 
-## 💻 Software & Academic Projects
+## 🧠 My Tech Stack
 
-🔹 **N-Queens Solver with GUI**  
-Technologies: Java, Swing, OOP  
+### 🔹 Languages & Core
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+</p>
 
-🔹 **SJF Non-Preemptive Scheduling (GUI)**  
-Technologies: Java, Swing, OOP  
+---
 
-🔹 **Employee Management System**  
-Technologies: Python, CSV File Handling  
+### 🔹 AI & Data
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas">
+  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy">
+  <img src="https://img.shields.io/badge/Matplotlib-green?style=for-the-badge">
+</p>
 
-🔹 **Wikipedia-like Web Platform**  
-Technologies: PHP, HTML, CSS, MVC  
+---
 
-🔹 **Language Learning Website**  
-Technologies: HTML, CSS, JavaScript  
+### 🔹 Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php">
+  <img src="https://img.shields.io/badge/MVC-darkgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
+  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github">
+</p>
+
+---
+
+### 🔹 Architecture & Concepts
+<p>
+  <img src="https://img.shields.io/badge/OOP-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Structures-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Algorithms-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Databases-lightblue?style=for-the-badge">
+</p>
+
+---
+
+## 🚀 Featured AI Projects
+
+🔹 **Healthcare Insurance Expenses Prediction**  
+Predicting insurance costs using ML models with performance evaluation (RMSE, R²).  
+**Tech:** Python, Scikit-learn, Pandas, NumPy  
+
+🔹 **Fashion MNIST – Logistic Regression vs K-Means**  
+Classification vs clustering comparison with visual analysis.  
+**Tech:** Python, Scikit-learn  
+
+🔹 **Parallel K-Means Clustering**  
+Sequential vs parallel K-Means using Fork/Join with performance comparison.  
+**Tech:** Java, OOP  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waadsadek05&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waadsadek05&show_icons=true&theme=dark" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+📫 **Contact Me**
 - 📧 Email: waedsadek0@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/waadsadek  
 - 💻 GitHub: https://github.com/waadsadek05
