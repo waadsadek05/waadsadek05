@@ -107,15 +107,9 @@ Currently focusing on end-to-end AI systems and deployment.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waadsadek05" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waadsadek05" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waadsadek05" />
+  <img src="https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Projects-4+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Engineer-red?style=for-the-badge" />
 </p>
 
 ---
