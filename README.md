@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Waad Sadek</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;AI+%7C+Deep+Learning+%7C+Computer+Vision+%7C+NLP;Building+Real-World+Intelligent+Systems;Turning+Data+into+Smart+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;Building+Real-World+Intelligent+Systems;Turning+Data+into+Smart+Decisions" />
 </p>
 
 ---
-
-## 🚀 USP
-<p align="center">
-<b>I help businesses transform challenges into actionable solutions using smart machine learning.</b>
-</p>
 
 ## 🧠 About Me
 Machine Learning student passionate about building intelligent systems using data, algorithms, and real-world problem solving.  
@@ -60,36 +55,52 @@ Currently focusing on end-to-end AI systems and deployment.
 ## 🚀 Featured Projects
 
 ### 🧠 Face Mask Detection System  
-- MobileNetV2 Transfer Learning  
-- 12,000+ images  
-- ~98.99% accuracy  
-- OpenCV preprocessing  
-- FastAPI + Docker deployment  
+🔗 GitHub: https://github.com/waadsadek05  
+
+- Built a deep learning model using **MobileNetV2 (Transfer Learning)**  
+- Task: Binary classification (Mask / No Mask)  
+- Dataset: 12,000+ images  
+- Used **OpenCV face detection** for preprocessing  
+- Achieved ~**98.99% accuracy**  
+- Deployed using **FastAPI REST API**  
+- Containerized using **Docker**  
+- Tested with real-time webcam and external images  
 
 ---
 
 ### 👤 Face Recognition Attendance System  
-- FaceNet 512-D embeddings  
-- Cosine similarity + SVM  
-- 96.67% accuracy  
-- Real-time attendance logging  
+🔗 GitHub: https://github.com/waadsadek05  
+
+- Built end-to-end face recognition attendance system  
+- Used **FaceNet embeddings (512D)**  
+- Preprocessing: CLAHE + filtering + PSNR/MSE  
+- Classification: **Cosine Similarity + SVM (RBF)**  
+- Achieved **96.67% accuracy + 98.5% CV score**  
+- Real-time webcam system  
+- CSV logging + duplicate prevention  
 
 ---
 
 ### 💳 Fraud Detection System  
-- 53,000+ transactions (imbalanced data)  
-- SMOTE for balancing  
-- Random Forest + SVM + Logistic Regression  
-- GridSearchCV optimization  
-- Best: F1 = 0.51, Recall = 0.67  
+🔗 GitHub: https://github.com/waadsadek05  
+
+- Dataset: 53,000+ transactions (high imbalance)  
+- Applied **SMOTE for balancing**  
+- Models: Logistic Regression, SVM, Random Forest  
+- Best model: Random Forest  
+  - F1 = 0.51  
+  - Recall = 0.67  
+- Hyperparameter tuning using **GridSearchCV**  
 
 ---
 
 ### 🏥 Healthcare Insurance Prediction  
-- Regression models on 1,337 records  
-- Polynomial Regression best (R² = 88.56%)  
-- Feature engineering (log transform, encoding)  
-- Key drivers: BMI, age, smoking  
+🔗 GitHub: https://github.com/waadsadek05  
+
+- Regression on 1,337 records  
+- Polynomial Regression best: **R² = 88.56%**  
+- Feature engineering: log transform, encoding, scaling  
+- Key drivers: BMI, age, smoking status  
 
 ---
 
