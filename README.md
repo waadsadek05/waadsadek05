@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Waad Sadek</h1>
+<h1 align="center">Hi, I'm Waad Sadek</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Building+Real-World+Intelligent+Systems;Turning+Data+into+Smart+Decisions" />
@@ -68,7 +68,7 @@ Currently focusing on end-to-end AI systems and deployment.
 ---
 
 ### 👤 Face Recognition Attendance System 
-د
+
 - Built end-to-end face recognition attendance system  
 - Used **FaceNet embeddings (512D)**  
 - Preprocessing: CLAHE + filtering + PSNR/MSE  
