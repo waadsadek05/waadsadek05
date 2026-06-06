@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waad Sadek</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;Building+Real-World+Intelligent+Systems;Turning+Data+into+Smart+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Building+Real-World+Intelligent+Systems;Turning+Data+into+Smart+Decisions" />
 </p>
 
 ---
@@ -107,19 +107,18 @@ Currently focusing on end-to-end AI systems and deployment.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waadsadek05&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waadsadek05&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waadsadek05&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=waadsadek05&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waadsadek05&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waadsadek05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
 ## 📫 Contact Me
 <p align="center">
 <a href="mailto:waedsadek0@gmail.com">
@@ -127,8 +126,5 @@ Currently focusing on end-to-end AI systems and deployment.
 </a>
 <a href="https://linkedin.com/in/waadsadek">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-<a href="https://github.com/waadsadek05">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 </p>
