@@ -79,18 +79,6 @@ Currently focusing on end-to-end AI systems and deployment.
 
 ---
 
-### 💳 Fraud Detection System  
-
-- Dataset: 53,000+ transactions (high imbalance)  
-- Applied **SMOTE for balancing**  
-- Models: Logistic Regression, SVM, Random Forest  
-- Best model: Random Forest  
-  - F1 = 0.51  
-  - Recall = 0.67  
-- Hyperparameter tuning using **GridSearchCV**  
-
----
-
 ### 🏥 Healthcare Insurance Prediction  
 
 - Regression on 1,337 records  
