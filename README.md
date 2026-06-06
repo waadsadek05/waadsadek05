@@ -55,7 +55,6 @@ Currently focusing on end-to-end AI systems and deployment.
 ## 🚀 Featured Projects
 
 ### 🧠 Face Mask Detection System  
-🔗 GitHub: https://github.com/waadsadek05  
 
 - Built a deep learning model using **MobileNetV2 (Transfer Learning)**  
 - Task: Binary classification (Mask / No Mask)  
@@ -68,9 +67,8 @@ Currently focusing on end-to-end AI systems and deployment.
 
 ---
 
-### 👤 Face Recognition Attendance System  
-🔗 GitHub: https://github.com/waadsadek05  
-
+### 👤 Face Recognition Attendance System 
+د
 - Built end-to-end face recognition attendance system  
 - Used **FaceNet embeddings (512D)**  
 - Preprocessing: CLAHE + filtering + PSNR/MSE  
@@ -82,7 +80,6 @@ Currently focusing on end-to-end AI systems and deployment.
 ---
 
 ### 💳 Fraud Detection System  
-🔗 GitHub: https://github.com/waadsadek05  
 
 - Dataset: 53,000+ transactions (high imbalance)  
 - Applied **SMOTE for balancing**  
@@ -95,7 +92,6 @@ Currently focusing on end-to-end AI systems and deployment.
 ---
 
 ### 🏥 Healthcare Insurance Prediction  
-🔗 GitHub: https://github.com/waadsadek05  
 
 - Regression on 1,337 records  
 - Polynomial Regression best: **R² = 88.56%**  
@@ -104,15 +100,6 @@ Currently focusing on end-to-end AI systems and deployment.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Projects-4+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Engineer-red?style=for-the-badge" />
-</p>
-
----
 ## 📫 Contact Me
 <p align="center">
 <a href="mailto:waedsadek0@gmail.com">
