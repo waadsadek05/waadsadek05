@@ -7,14 +7,22 @@
   <a href="mailto:waedsadek0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
+  <a href="https://github.com/waadsadek05">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-🤖 **Aspiring AI Engineer & Computer Science Student**  
-🎓 Faculty of Computers & Artificial Intelligence – Helwan University  
-🐍 Python • Machine Learning • Problem Solving  
-💡 Passionate about data, algorithms, and intelligent systems  
+## 🚀 USP
+**I help businesses transform challenges into actionable solutions using smart machine learning.**
+
+---
+
+🤖 Machine Learning student with a strong foundation in Python, data analysis, and machine learning,  
+along with a background in Deep Learning, Computer Vision, and NLP. Experienced in building and  
+evaluating ML models using Scikit-learn, with practical skills in data preprocessing, feature engineering,  
+and EDA.
 
 ---
 
@@ -34,51 +42,57 @@
 ### 🔹 AI & Data
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn">
-  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas">
-  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy">
-  <img src="https://img.shields.io/badge/Matplotlib-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Deep%20Learning-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Computer%20Vision-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NLP-orange?style=for-the-badge">
 </p>
 
 ---
 
-### 🔹 Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php">
-  <img src="https://img.shields.io/badge/MVC-darkgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github">
-</p>
+## 🚀 Featured Projects
+
+### 🧠 Face Mask Detection System  
+🔗 [GitHub](https://github.com/waadsadek05)
+
+- Built a deep learning model using MobileNetV2 (Transfer Learning)  
+- Trained on 12,000+ images  
+- Achieved ~98.99% accuracy  
+- Deployed using FastAPI + Docker  
+- Real-time webcam testing  
 
 ---
 
-### 🔹 Architecture & Concepts
-<p>
-  <img src="https://img.shields.io/badge/OOP-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Data%20Structures-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Algorithms-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Databases-lightblue?style=for-the-badge">
-</p>
+### 👤 Face Recognition Attendance System  
+🔗 [GitHub](https://github.com/waadsadek05)
+
+- FaceNet 512-D embeddings pipeline  
+- Cosine similarity + SVM classifier  
+- 96.67% accuracy + 98.5% CV score  
+- Real-time attendance system with CSV logging  
 
 ---
 
-## 🚀 Featured AI Projects
+### 💳 Fraud Detection System  
+🔗 [GitHub](https://github.com/waadsadek05)
 
-🔹 **Healthcare Insurance Expenses Prediction**  
-Predicting insurance costs using ML models with performance evaluation (RMSE, R²).  
-**Tech:** Python, Scikit-learn, Pandas, NumPy  
-
-🔹 **Fashion MNIST – Logistic Regression vs K-Means**  
-Classification vs clustering comparison with visual analysis.  
-**Tech:** Python, Scikit-learn  
-
-🔹 **N-Queens Solver with GUI**  
-Implemented a graphical solution for the N-Queens problem using multiple search algorithms (Best-First Search, Hill Climbing, Cultural Algorithm) with visualization.  
-**Tech:** Python, Tkinter, OOP  
+- Imbalanced dataset (0.19% fraud cases)  
+- SMOTE for class balancing  
+- Random Forest best model (F1 = 0.51)  
+- GridSearchCV optimization  
 
 ---
 
-📫 **Contact Me**
+### 🏥 Healthcare Insurance Prediction  
+🔗 [GitHub](https://github.com/waadsadek05)
+
+- Regression models on 1,337 records  
+- Polynomial Regression best (R² = 88.56%)  
+- Feature engineering + log transformation  
+- Key factors: BMI, age, smoking  
+
+---
+
+## 📫 Contact Me
 - 📧 Email: waedsadek0@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/waadsadek  
-- 💻 GitHub: https://github.com/waadsadek05
+- 💻 GitHub: https://github.com/waadsadek05  
