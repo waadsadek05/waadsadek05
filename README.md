@@ -7,9 +7,9 @@
 ---
 
 ## 🧠 About Me
-Machine Learning student passionate about building intelligent systems using data, algorithms, and real-world problem solving.  
-Experienced in model building and evaluating ML systems with a focus on Deep Learning, Computer Vision, and NLP.  
-Currently focusing on end-to-end AI systems and deployment.
+Aspiring Machine Learning Engineer passionate about building intelligent systems and solving complex problems through data.
+Experienced in Machine Learning, Deep Learning, Computer Vision, and NLP, with hands-on experience developing end-to-end AI solutions.
+Always eager to learn, experiment, and contribute to impactful projects that bridge research and real-world applications.
 
 ---
 
