@@ -6,14 +6,14 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 Aspiring Machine Learning Engineer passionate about building intelligent systems and solving complex problems through data.
 Experienced in Machine Learning, Deep Learning, Computer Vision, and NLP, with hands-on experience developing end-to-end AI solutions.
 Always eager to learn, experiment, and contribute to impactful projects that bridge research and real-world applications.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### 📊 Data Science & Machine Learning
 <p>
@@ -54,9 +54,9 @@ Always eager to learn, experiment, and contribute to impactful projects that bri
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 Face Mask Detection System  
+### Face Mask Detection System  
 
 - Built a deep learning model using **MobileNetV2 (Transfer Learning)**  
 - Task: Binary classification (Mask / No Mask)  
@@ -69,7 +69,7 @@ Always eager to learn, experiment, and contribute to impactful projects that bri
 
 ---
 
-### 👤 Face Recognition Attendance System 
+### Face Recognition Attendance System 
 
 - Built end-to-end face recognition attendance system  
 - Used **FaceNet embeddings (512D)**  
@@ -81,7 +81,7 @@ Always eager to learn, experiment, and contribute to impactful projects that bri
 
 ---
 
-### 🏥 Healthcare Insurance Prediction  
+### Healthcare Insurance Prediction  
 
 - Regression on 1,337 records  
 - Polynomial Regression best: **R² = 88.56%**  
@@ -90,7 +90,7 @@ Always eager to learn, experiment, and contribute to impactful projects that bri
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 <p align="center">
 <a href="mailto:waedsadek0@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
